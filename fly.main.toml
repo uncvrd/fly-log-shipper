@@ -1,0 +1,7 @@
+# fly.toml file generated for foundry-logs on 2023-02-26T00:12:12-08:00
+
+app = "foundry-logs"
+
+[metrics]
+  path = "/metrics"
+  port = 9598
